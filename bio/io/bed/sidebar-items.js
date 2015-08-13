@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Strand","Strand information."]],"struct":[["Reader","A BED reader."],["Record","A BED record as defined by BEDtools (http://bedtools.readthedocs.org/en/latest/content/general-usage.html)"],["Records","A BED record."],["Writer","A BED writer."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["alphabet","The DNA alphabet (uppercase and lowercase)."],["iupac_alphabet","The IUPAC DNA alphabet (uppercase and lowercase)."],["n_alphabet","The DNA alphabet including N (uppercase and lowercase)."]],"struct":[["RevComp","Implementation of transformation into reverse complement."]]});
